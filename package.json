@@ -1,0 +1,17 @@
+{
+  "name": "data-log",
+  "main": "./lib/data-log",
+  "version": "0.2.0",
+  "description": "Add the current date in the hit of a shortcut!",
+  "activationCommands": {
+    "atom-text-editor": "data-log:toggle"
+  },
+  "repository": "https://github.com/MrDallOca/data-log",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "dateformat": "1.0.12"
+  }
+}
