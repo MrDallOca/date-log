@@ -1,5 +1,5 @@
 {
-  "name": "data-log",
+  "name": "date-log",
   "main": "./lib/data-log",
   "version": "0.2.0",
   "description": "Add the current date in the hit of a shortcut!",
